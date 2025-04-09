@@ -3,7 +3,7 @@
 
 Welcome to my GitHub portfolio!
 
-## About Me
+## About US
 we am a passionate software developer studying [Your Course]. I specialize in web development and love working with [technologies].
 
 ## Skills
@@ -23,4 +23,4 @@ A brief description of your second project.
 - GitHub Repo: [link-to-repo]
 
 ## Contact
-You can reach me at [email@example.com] or find me on [LinkedIn](https://www.linkedin.com/in/your-profile).
+You can reach us at [email@example.com] or find me on [LinkedIn](https://www.linkedin.com/in/your-profile).
